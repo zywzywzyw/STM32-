@@ -18,6 +18,7 @@ Design a multifunctional electronic hourglass with functions including but not l
 (5) Adaptive dimming of the hourglass based on external ambient brightness.
 
 2. Advanced requirements
+
 (6) Design UI interface to achieve human-computer interaction;
 
 (7) Design a mechanical structure to achieve automatic inversion after the timing is completed;
